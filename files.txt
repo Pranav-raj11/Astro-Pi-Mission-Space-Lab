@@ -1,0 +1,7 @@
+2e179c5d7860efd4df5da9092e8fad80  /home/pi/msl/stemlabs/Readings.csv
+609f48f5a84d9877e9e8f6842914af3b  /home/pi/msl/stemlabs/events.log
+8cea315ee9ea02bb13b3041905448cd9  /home/pi/msl/stemlabs/status.txt
+b88e8730e672c4732cf10a206a562dae  /home/pi/msl/stemlabs/main.py
+609f48f5a84d9877e9e8f6842914af3b  /home/pi/msl/stemlabs/output.log
+340e7963b7f2d078239e01e12addaf5a  /home/pi/msl/stemlabs/._main.py
+1f774296cdc68c855c8d5dc918da2302  /home/pi/msl/stemlabs/time.txt
